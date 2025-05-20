@@ -95,15 +95,6 @@ python manage.py runserver
 
 ---
 
-## 📥 Installation
-
-```bash
-git clone https://github.com/your-username/ethicra.git
-cd ethicra
-```
-
-Then follow the frontend/backend setup above.
-
 ---
 
 ## 📌 To-Do
@@ -131,5 +122,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 🙋‍♂️ Author
 
-Developed by **[Your Name]**  
-*Engineering Student | Fullstack Developer | AI Enthusiast*
+Developed by **Team Ethicra**  
+*Engineering Students | Fullstack Developer | AI Enthusiast*
