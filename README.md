@@ -103,8 +103,8 @@ python manage.py runserver
 - [x] Interview video recording & upload
 - [x] Face detection & frame analysis
 - [x] Result report with score
-- [ ] Admin dashboard for interviewer view
-- [ ] Advanced cheating detection (multi-face, no-face, etc.)
+- [x] Admin dashboard for interviewer view
+- [x] Advanced cheating detection (multi-face, no-face, etc.)
 
 ---
 
