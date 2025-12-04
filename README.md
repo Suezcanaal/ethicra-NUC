@@ -74,7 +74,7 @@ python manage.py runserver
 ## ⚙️ Requirements
 
 ### Frontend:
-- Node.js
+- React.js
 - npm
 
 ### Backend:
@@ -83,17 +83,6 @@ python manage.py runserver
 - OpenCV
 - ffmpeg (for video conversion)
 
----
-
-## 🚫 Git Ignored Items
-
-- `venv/` – Python virtual environment
-- `node_modules/` – Frontend dependencies
-- `.next/` – Next.js build files
-- `media/` – Uploaded and converted interview videos
-- `db.sqlite3` – Local development database
-
----
 
 ---
 
